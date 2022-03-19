@@ -21,8 +21,6 @@ export default () => {
   scene = new Scene();
   scene.background = new Color(0xbbbbbb);
 
-  addLight();
-
   renderer = new WebGLRenderer();
 
   renderer.setPixelRatio(window.devicePixelRatio);
@@ -34,13 +32,14 @@ export default () => {
 
   document.body.appendChild(renderer.domElement);
 
+  addLight(scene);
   loadStaff(scene);
 
   return { scene, camera, renderer };
 };
 
 
-function addLight() {
+function addLight(scene) {
   const directionalLight = new DirectionalLight(0xffffff, 1.0);
   directionalLight.castShadow = true;
   directionalLight.position.set(30, 50, 30);
