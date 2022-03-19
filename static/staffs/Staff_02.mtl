@@ -1,0 +1,44 @@
+# Blender MTL File: 'staffs.blend'
+# Material Count: 4
+
+newmtl Green_crystal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.024706 0.640000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl Iron_staff_02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.270228 0.267206 0.343380
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\Arthur\Desktop\Staffs\Imgs\staff_04_baixo.jpg
+
+newmtl Purple_ribbon
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.422177 0.066066 0.672962
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl Wood_staff_02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.166333 0.123752 0.062157
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\Arthur\Desktop\Staffs\Imgs\staff_04_baixo.jpg

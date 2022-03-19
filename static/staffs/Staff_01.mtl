@@ -1,0 +1,23 @@
+# Blender MTL File: 'staffs.blend'
+# Material Count: 2
+
+newmtl Ribbon_red
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000966 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl Wood_staff_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.207839 0.057315 0.011489
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd C:\Users\Arthur\Documents\Vendas_Online\2020\Staffs\Imgs\staff_01.jpg
