@@ -12,3 +12,11 @@ https://three-nebula.org/
 ## nebula app particle designer
 
 https://getnebula.app/
+
+## how to start
+
+Run `npm install` then `npm run start`.
+
+## 3D assets
+
+Credit goes to https://zsky2000.itch.io/ for 3D assets.
