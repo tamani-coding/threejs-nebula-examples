@@ -26,6 +26,7 @@ export default () => {
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setSize(window.innerWidth, window.innerHeight);
   renderer.setClearColor("black");
+  renderer.shadowMap.enabled = true;
 
   const controls = new OrbitControls(camera, renderer.domElement);
   controls.enableDamping = true;
